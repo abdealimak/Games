@@ -1,2 +1,2 @@
-<h1> All Games 🕹️ </h1>
-<h3> Compilation of all my mini games </h3>
+<h1> Mini Games 🕹️ </h1>
+<h3> Compilation of all my mini games  </h3>
